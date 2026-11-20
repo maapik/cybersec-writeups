@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DFIR_%26_IR-7_Cases-00b4d8?style=for-the-badge&labelColor=0d1117" alt="DFIR & IR" />
-  <img src="https://img.shields.io/badge/Reverse_Engineering-2_Cases-818cf8?style=for-the-badge&labelColor=0d1117" alt="Reverse Engineering" />
-  <img src="https://img.shields.io/badge/OSINT-1_Report-10b981?style=for-the-badge&labelColor=0d1117" alt="OSINT" />
-  <img src="https://img.shields.io/badge/Web_CTF-10_Writeups-f59e0b?style=for-the-badge&labelColor=0d1117" alt="Web CTF" />
+  <img src="https://img.shields.io/badge/DFIR_%26_IR-7_Cases-27272a?style=for-the-badge&labelColor=090a0c" alt="DFIR & IR" />
+  <img src="https://img.shields.io/badge/Reverse_Engineering-2_Cases-1f2228?style=for-the-badge&labelColor=090a0c" alt="Reverse Engineering" />
+  <img src="https://img.shields.io/badge/OSINT-1_Report-27272a?style=for-the-badge&labelColor=090a0c" alt="OSINT" />
+  <img src="https://img.shields.io/badge/Web_CTF-10_Writeups-1f2228?style=for-the-badge&labelColor=090a0c" alt="Web CTF" />
 </p>
 
 Структурированный архив разборов и лабораторных работ по **компьютерной экспертизе (DFIR)**, **расследованию инцидентов (Incident Response)**, **реверс-инжинирингу**, **OSINT** и **Web CTF**.
@@ -15,7 +15,7 @@
 
 ---
 
-## 🔍 DFIR & Incident Response (Компьютерная экспертиза)
+## [01] DFIR & Incident Response (Компьютерная экспертиза)
 
 | Кейс | Платформа | Артефакты и инструменты |
 | :--- | :--- | :--- |
@@ -29,7 +29,7 @@
 
 ---
 
-## ⚙️ Reverse Engineering
+## [02] Reverse Engineering
 
 | Задача | Платформа | Техники и инструменты |
 | :--- | :--- | :--- |
@@ -38,7 +38,7 @@
 
 ---
 
-## 🕵️ OSINT & Social Engineering
+## [03] OSINT & Social Engineering
 
 | Материал | Формат | Тематика |
 | :--- | :--- | :--- |
@@ -46,7 +46,7 @@
 
 ---
 
-## 🌐 Web Security & CTF
+## [04] Web Security & CTF
 
 | Задача | Платформа | Вектор / Техника |
 | :--- | :--- | :--- |
@@ -63,7 +63,7 @@
 
 ---
 
-## 📁 Структура репозитория
+## [05] Структура репозитория
 
 ```text
 cybersec-writeups/
